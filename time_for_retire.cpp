@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	int age,wretire;
-	cout<<"Retire Program\n";
+	cout<<"\nRetire Program\n";
 	cout<<"Age: ";
 	cin>>age;
 	wretire=(60-age)*52;
