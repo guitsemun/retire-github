@@ -5,12 +5,12 @@ using namespace std;
 
 int main()
 {
-	int age,wretire;
-	cout<<"Retire Program\n";
-	cout<<"Age: ";
-	cin>>age;
-	wretire=(60-age)*52;
-	cout<<"Weeks to retire: "<<wretire;
+	int edad,semanasr;
+	cout<<"\nPrograma de Retiro\n";
+	cout<<"Edad: ";
+	cin>>edad;
+	semanasr=(60-edad)*52;
+	cout<<"Semanas faltantes para el retiro: "<<semanasr;
 	cout<<"\n";
 	return 0;
 }
