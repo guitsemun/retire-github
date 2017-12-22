@@ -1,2 +1,2 @@
 # retire-github
-programa para calcular cuando te debes jubilar
+programa en C++ (Qt) para calcular cuando te debes jubilar
