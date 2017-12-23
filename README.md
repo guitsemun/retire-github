@@ -1,2 +1,2 @@
 # retire-github
-Programa en c++ (Qt) para determinar cuantas semanas te faltan para que te jubiles
+Programa en c++ (Qt) para determinar cuantas semanas te faltan para que te jubiles by @yong.tse
