@@ -14,10 +14,10 @@ int main(int argc, char *argv[])
 	int age,wretire;
 	QApplication app(argc,argv);
 
-	QTextEdit *txt =new QTextEdit();
-	txt.setGeometry(190,20,120,40);
-	txt->setText("Hello, world!");
-	txt->append("Appending some text…");
+	//QTextEdit *txt =new QTextEdit();
+	//txt.setGeometry(190,20,120,40);
+	//txt->setText("Hello, world!");
+	//txt->append("Appending some text…");
 
 	//txt->show();
 	
